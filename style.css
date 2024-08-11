@@ -1,0 +1,76 @@
+html{
+    overflow-x: hidden;
+}
+.rooms{
+    padding-bottom: 700px;
+}
+.cat{
+    padding-bottom: 200px;
+}
+.cover{
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+.top{
+    padding-top: 75px;
+}
+
+.mid{
+    padding-top: 100px;
+}
+.bottom{
+    padding-top: 175px;
+}
+.bottom a{
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+    height: max-content;
+}
+.container a{
+    text-decoration: none;
+}
+.c-card{
+    border: 2px solid white;
+    border-radius: 30px;
+}
+.cat1{
+    margin-top: 30%;
+}
+.single-top{
+    position: relative;
+}
+.single-top h1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.single-rating1{
+    border-radius: 30px;
+    padding: 10px;
+    width: max-content;
+    background-color: black;
+    color: white;
+}
+.single-rating{
+    background-color: white;
+    border-radius: 30px;
+}
+.single-top-img{
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.single-top-con{
+    background-color: rgb(230, 230, 230) !important;
+}
+.out-data{
+    border-radius: 30px;
+}
+#daftarKategori{
+    list-style-type: none;
+}
+#daftarKategori a{
+    color: black;
+}
